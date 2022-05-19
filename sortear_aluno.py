@@ -1,4 +1,4 @@
-import random
+import sorteio
 nome1 = input('Digite o nome do aluno: ')
 nome2 = input('Digite o nome do aluno: ')
 nome3 = input('Digite o nome do aluno: ')
